@@ -5,6 +5,9 @@
       "image": "wallabag/wallabag",
       "isMain": true,
       "internalPort": "80",
+      "environment": {
+        "SYMFONY__ENV__DOMAIN_NAME": "${APP_DOMAIN}"
+      },
       "volumes": [
         {
           "hostPath": "${APP_DATA_DIR}/data",
