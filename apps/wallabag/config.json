@@ -12,16 +12,7 @@
   "tipi_version": 2,
   "version": "v2.6.13",
   "source": "https://github.com/wallabag/wallabag",
-  "form_fields": [
-    {
-      "type": "text",
-      "label": "FQDN",
-      "max": 254,
-      "min": 6,
-      "required": true,
-      "env_variable": "APP_DOMAIN"
-    }
-  ],
+  "form_fields": [],
   "exposable": true,
   "supported_architectures": [
     "arm64",
