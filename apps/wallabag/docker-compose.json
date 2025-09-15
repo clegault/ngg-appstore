@@ -1,0 +1,17 @@
+{
+  "services": [
+    {
+      "name": "wallabag",
+      "image": "wallabag/wallabag",
+      "isMain": true,
+      "internalPort": "80",
+      "volumes": [
+        {
+          "hostPath": "${APP_DATA_DIR}/data",
+          "containerPath": "/var/www/wallabag/web/assets/images"
+        }
+      ]
+    }
+  ],
+  "$schema": "../dynamic-compose-schema.json"
+}

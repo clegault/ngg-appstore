@@ -1,0 +1,24 @@
+{
+  "name": "wallabag",
+  "id": "wallabag",
+  "available": true,
+  "short_desc": "Pocket clone, store and read articles in a comfortable view.",
+  "author": "traefik",
+  "port": 8382,
+  "categories": [
+    "utilities"
+  ],
+  "description": "Wallabag is a read-it-later application: it saves a web page by keeping content only. Elements like navigation or ads are deleted.",
+  "tipi_version": 2,
+  "version": "v2.6.13",
+  "source": "https://github.com/wallabag/wallabag",
+  "exposable": true,
+  "supported_architectures": [
+    "arm64",
+    "amd64"
+  ],
+  "created_at": 1745082405284,
+  "updated_at": 1745082405284,
+  "dynamic_config": true,
+  "form_fields": []
+}
