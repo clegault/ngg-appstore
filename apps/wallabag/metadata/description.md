@@ -27,4 +27,11 @@ wallabag is supported by many feed aggregators (or RSS readers).
 
 Here is a non exhaustive list of them.
 
-- [Unread](https://www.goldenhillsoftware.com/unread/) -[Miniflux](https://miniflux.net/) -[Vienna RSS](https://www.vienna-rss.com/) -[FreshRSS](https://www.freshrss.org/) -[Tiny Tiny RSS](https://tt-rss.org/) -[Leed](https://github.com/LeedRSS/Leed) -[Communique (fork of FeedReader)](https://github.com/Suzie97/Communique) -[Fiery Feeds](https://itunes.apple.com/us/app/fiery-feeds/id1158763303)
+- [Unread](https://www.goldenhillsoftware.com/unread/)
+- [Miniflux](https://miniflux.net/)
+- [Vienna RSS](https://www.vienna-rss.com/)
+- [FreshRSS](https://www.freshrss.org/)
+- [Tiny Tiny RSS](https://tt-rss.org/)
+- [Leed](https://github.com/LeedRSS/Leed)
+- [Communique (fork of FeedReader)](https://github.com/Suzie97/Communique)
+- [Fiery Feeds](https://itunes.apple.com/us/app/fiery-feeds/id1158763303)
