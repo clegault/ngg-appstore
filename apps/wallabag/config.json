@@ -6,7 +6,7 @@
   "dynamic_config": true,
   "port": 8382,
   "id": "wallabag",
-  "tipi_version": 3,
+  "tipi_version": 4,
   "version": "2.6.14",
   "categories": ["utilities"],
   "description": "Wallabag is a read-it-later application: it saves a web page by keeping content only. Elements like navigation or ads are deleted.",
