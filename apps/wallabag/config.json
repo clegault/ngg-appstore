@@ -9,8 +9,8 @@
     "utilities"
   ],
   "description": "Wallabag is a read-it-later application: it saves a web page by keeping content only. Elements like navigation or ads are deleted.",
-  "tipi_version": 2,
-  "version": "v2.6.13",
+  "tipi_version": 3,
+  "version": "v2.6.14",
   "source": "https://github.com/wallabag/wallabag",
   "form_fields": [],
   "exposable": true,
